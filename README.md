@@ -24,7 +24,7 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 - ⚡ Fun fact: I debug with console.log() and I'm proud of it!
 - 💬 Ask me about **HTML, CSS, MySQL, or anything tech-related**
 - 📫 Reach me at **amanvats2245@gmail.com**
-- 🌐 Location: Narnaund, Haryana, India
+- 🌐 Location: Pune,Maharashtra, India
 
 <br clear="right"/>
 
