@@ -24,7 +24,7 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 - ⚡ Fun fact: I debug with console.log() and I'm proud of it!
 - 💬 Ask me about **HTML, CSS, MySQL, or anything tech-related**
 - 📫 Reach me at **amanvats2245@gmail.com**
-- 🌐 Location: Pune,Maharashtra,India
+- 🌐 Location: Pune, Maharashtra, India
 
 <br clear="right"/>
 
@@ -63,19 +63,20 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanvatss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209b7&icon_color=00d4ff&text_color=c9d1d9" alt="Aman's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanvatss&theme=radical&hide_border=true&background=0D1117&stroke=7209b7&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="Aman's Streak Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanvatss&show_icons=true&count_private=true&hide_border=true&title_color=7209b7&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Aman Vats github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanvatss&theme=dark&hide_border=true&background=0D1117&stroke=7209b7&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvatss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209b7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanvatss&layout=compact&hide_border=true&title_color=7209b7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanvatss&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanvatss&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -87,13 +88,14 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 <!-- 
 Example format when you add projects:
 
-[![Project Name](https://img.shields.io/badge/Project-Name-blue?style=for-the-badge)](link-to-repo)
+### 📱 Project Name
+![Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Description:** Brief description of what the project does
+Brief description of your project
 
-**Tech Stack:** HTML, CSS, JavaScript
-
-[Live Demo](link) | [Source Code](link)
+[🔗 Live Demo](link) | [💻 Source Code](link)
 
 ---
 -->
@@ -117,18 +119,24 @@ Example format when you add projects:
   </a>
 </div>
 
-## 💭 Random Dev Quote
+<br/>
+
+## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
 
 <div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+  
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7209b7&height=120&section=footer" width="100%"/>
-  
-  ### 💙 Thanks for visiting! Let's connect and build something amazing together!
-  
-  <p>⭐️ From <a href="https://github.com/amanvatss">Aman Vats</a> with ❤️</p>
 </div>
