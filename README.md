@@ -24,7 +24,7 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 - ⚡ Fun fact: I debug with console.log() and I'm proud of it!
 - 💬 Ask me about **HTML, CSS, MySQL, or anything tech-related**
 - 📫 Reach me at **amanvats2245@gmail.com**
-- 🌐 Location: Pune,Maharashtra, India
+- 🌐 Location: Pune,Maharashtra,India
 
 <br clear="right"/>
 
@@ -69,8 +69,9 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvatss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209b7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanvatss&theme=react-dark&hide_border=true&bg_color=0D1117&color=7209b7&line=00d4ff&point=c9d1d9&area=true&area_color=00d4ff" alt="Contribution Graph"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amanvatss&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
@@ -83,12 +84,20 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 ### 🔗 Coming Soon!
 *I'm currently working on exciting projects that will be showcased here. Stay tuned!*
 
-</div>
+<!-- 
+Example format when you add projects:
 
-## 📈 Coding Activity
+[![Project Name](https://img.shields.io/badge/Project-Name-blue?style=for-the-badge)](link-to-repo)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amanvatss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209b7&text_color=c9d1d9" alt="Wakatime Stats"/>
+**Description:** Brief description of what the project does
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+[Live Demo](link) | [Source Code](link)
+
+---
+-->
+
 </div>
 
 ## 🤝 Connect With Me
@@ -112,12 +121,6 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amanvatss/amanvatss/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
