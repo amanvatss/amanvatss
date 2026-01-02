@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7209b7&height=200&section=header&text=Aman%20Vats&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Full%20Stack%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7209b7&height=200&section=header&text=Aman%20Vats&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7209B7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Vats;Frontend+Developer+from+India;Learning+Full+Stack+Development;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7209B7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Vats;Full+Stack+Developer+from+India;Exploring+AI+%26+Cloud+Technologies;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate frontend developer with a keen interest in creating beautiful, responsive, and user-friendly web applications. Currently on my journey to becoming a full-stack developer, I enjoy turning complex problems into simple, elegant solutions.
+I'm a passionate Full Stack Developer with expertise in building modern, scalable web applications. With a strong foundation in the MERN stack, I'm now expanding my horizons into cutting-edge technologies like containerization, generative AI, and agentic AI systems.
 
-- 🔭 Currently working on **Full Stack Web Development Projects**
-- 🌱 Learning **JavaScript, React, Node.js & MongoDB**
-- 💡 Proficient in **HTML, CSS, Python, C, C++, and MySQL**
-- 🎯 2025 Goals: Master MERN Stack & Contribute to Open Source
+- 🔭 Currently working on **AI-Powered Full Stack Applications**
+- 🌱 Learning **Docker, Generative AI & Agentic AI**
+- 💡 Proficient in **MERN Stack, Python, C/C++, and MySQL**
+- 🎯 2026 Goals: Master AI Integration & Cloud-Native Development
 - ⚡ Fun fact: I debug with console.log() and I'm proud of it!
-- 💬 Ask me about **HTML, CSS, MySQL, or anything tech-related**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Docker, or AI**
 - 📫 Reach me at **amanvats2245@gmail.com**
 - 🌐 Location: Pune, Maharashtra, India
 
@@ -34,28 +34,37 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-### Databases & Tools
+### Full Stack Development
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-### Currently Learning
+### Currently Exploring
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge&logo=ai&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Containers"/>
 </p>
 
 </div>
@@ -83,15 +92,15 @@ I'm a passionate frontend developer with a keen interest in creating beautiful, 
 <div align="center">
 
 ### 🔗 Coming Soon!
-*I'm currently working on exciting projects that will be showcased here. Stay tuned!*
+*I'm currently working on exciting AI-powered projects that will be showcased here. Stay tuned!*
 
 <!-- 
 Example format when you add projects:
 
 ### 📱 Project Name
-![Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 Brief description of your project
 
