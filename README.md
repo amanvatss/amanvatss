@@ -69,6 +69,7 @@ I'm a final-year CS student from Pune with a deep love for full-stack developmen
 ### 🤖 AI / Emerging Tech
 <p>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=for-the-badge&logoColor=white"/>
@@ -79,6 +80,53 @@ I'm a final-year CS student from Pune with a deep love for full-stack developmen
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 AI & Agentic Systems
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 FinVeritas</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/yfinance-00D4FF?style=flat-square&logoColor=black"/>
+      </p>
+      <p align="center">Multi-agent financial analysis system with a <strong>5-agent sequential pipeline</strong> (Revenue → Balance Sheet → Liquidity → Sentiment → Cross-Reference). LLMs are strictly forbidden from doing math — all calculations handled in Python (Pandas/Numpy), LLMs narrate only. Features a <strong>0–100 Data Credibility Engine</strong>, Bloomberg PDF ingestion, JWT + SMTP OTP auth, and 15-min inactivity session kill. Achieved <strong>0.833 cross-reference coverage</strong> on LangSmith evals.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/5%20Specialized%20Agents-7209b7?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/0.833%20LangSmith%20Score-00d4ff?style=flat-square&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/💻 Source-181717?style=for-the-badge&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 HealthSync AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ReportLab-FF6C37?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">6-agent LangGraph state machine that transforms raw lab reports into empathetic, plain-English health reports. Uses <strong>16 hardcoded WHO/AHA/ADA clinical thresholds</strong> — never LLM-generated — for deterministic risk classification. Outputs a <strong>Wellness Score (0–100)</strong> across 6 health dimensions with OCR ingestion, email + SMS delivery, and Hindi language support. ~4,800 lines across 69 source files.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/6%20LangGraph%20Agents-7209b7?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WHO%2FAHA%2FADA%20Thresholds-e74c3c?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/💻 Source-181717?style=for-the-badge&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+### 🏗️ Full-Stack Production Systems
 
 <div align="center">
 <table>
@@ -126,7 +174,7 @@ I'm a final-year CS student from Pune with a deep love for full-stack developmen
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💰 Expense Management System</h3>
+      <h3 align="center">💸 Expense Management System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/OOP-FF6F00?style=flat-square&logoColor=white"/>
@@ -156,7 +204,6 @@ I'm a final-year CS student from Pune with a deep love for full-stack developmen
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvatss&bg_color=0d1117&color=00d4ff&line=7209b7&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
@@ -207,10 +254,6 @@ I'm a final-year CS student from Pune with a deep love for full-stack developmen
   <a href="mailto:amanvats2245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- Add portfolio link once ready -->
-  <!-- <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a> -->
 </div>
 
 ---
